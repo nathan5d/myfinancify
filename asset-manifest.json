@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myfinancify/static/css/main.261bc2bd.css",
-    "main.js": "/myfinancify/static/js/main.0121f435.js",
+    "main.css": "/myfinancify/static/css/main.2101e2e7.css",
+    "main.js": "/myfinancify/static/js/main.375c2c85.js",
     "static/js/453.d0315ca1.chunk.js": "/myfinancify/static/js/453.d0315ca1.chunk.js",
     "static/media/Inter.var.woff2?v=3.18": "/myfinancify/static/media/Inter.var.9df5db385c3370707c5b.woff2",
     "static/media/Inter-italic.var.woff2?v=3.18": "/myfinancify/static/media/Inter-italic.var.b27297c148a7ef314ce2.woff2",
@@ -45,12 +45,12 @@
     "service-worker.js": "/myfinancify/service-worker.js",
     "static/media/loading.gif": "/myfinancify/static/media/loading.d1892d90b065e38e4607.gif",
     "index.html": "/myfinancify/index.html",
-    "main.261bc2bd.css.map": "/myfinancify/static/css/main.261bc2bd.css.map",
-    "main.0121f435.js.map": "/myfinancify/static/js/main.0121f435.js.map",
+    "main.2101e2e7.css.map": "/myfinancify/static/css/main.2101e2e7.css.map",
+    "main.375c2c85.js.map": "/myfinancify/static/js/main.375c2c85.js.map",
     "453.d0315ca1.chunk.js.map": "/myfinancify/static/js/453.d0315ca1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.261bc2bd.css",
-    "static/js/main.0121f435.js"
+    "static/css/main.2101e2e7.css",
+    "static/js/main.375c2c85.js"
   ]
 }
